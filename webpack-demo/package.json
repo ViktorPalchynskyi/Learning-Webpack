@@ -2,9 +2,8 @@
   "name": "app",
   "version": "1.0.0",
   "main": "app.js",
-  "type": "module",
   "scripts": {
-    "start": "webpack"
+    "start": "webpack --config webpack.config.js"
   },
   "keywords": [],
   "author": "",
